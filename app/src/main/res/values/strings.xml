@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">220410_RvDataBinding_Clone</string>
+    <string name="user_format">이름은 %s 나이는 %d</string>
+
+</resources>
